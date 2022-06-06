@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "Test ",
+        "lastName": "User",
+        "username": "testuser101@gmail.com",
+        "hash": "$2a$10$JutCytROsUhw3hRpscbq..Fa3EFDJLWEHmB/RxnVani7qwkhkhV8.",
+        "id": 1,
+        "dateCreated": "2022-06-04T07:31:28.715Z",
+        "dateUpdated": "2022-06-04T07:31:28.715Z"
+    },
+    {
+        "firstName": "Test 2",
+        "lastName": "User",
+        "username": "testuser102@gmail.com",
+        "hash": "$2a$10$vMagccydbA4wV7vSjeSS9.EeMebBS5hsqX60ZvJRP2toJAYbsHDNC",
+        "id": 2,
+        "dateCreated": "2022-06-04T07:32:48.665Z",
+        "dateUpdated": "2022-06-04T07:32:48.665Z"
+    }
+]
